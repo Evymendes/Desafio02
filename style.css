@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.menu{
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+.menu ul {
+	list-style: none;
+}
+.header{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.footer{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.footer-texto{
+	width: 50%;
+}
+.footer-imagem{
+	width: 50%;
+}
