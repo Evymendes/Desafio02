@@ -1,6 +1,8 @@
 body{
 	margin: 0;
-	padding: 0;
+	padding: 
+	background-color: #324582;
+
 }
 
 .menu{
@@ -24,6 +26,8 @@ body{
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
+	background-color: #324582;
+	
 }
 
 .footer-texto{
