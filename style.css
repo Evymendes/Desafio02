@@ -9,6 +9,7 @@ body{
 	display: flex;
 	justify-content: flex-end;
 	align-items: flex-end;
+	background-image: "paul-330307.jpg";
 }
 
 .menu ul {
@@ -27,7 +28,8 @@ body{
 	align-items: center;
 	flex-direction: column;
 	background-color: #324582;
-	
+	color: #fff;
+
 }
 
 .footer-texto{
